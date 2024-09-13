@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="ASAC"/>
+        <group name="MMS Interface DKI"/>
+        <group name="mobile banking">
+            <file>file:/D:/PROJECT/Pak_Indra/mobile%20banking/MBServer/src/java/com/matajari/process/InquirySaldo.java</file>
+            <file>file:/D:/PROJECT/Pak_Indra/mobile%20banking/MBServer/src/java/com/matajari/function/XMLFunction.java</file>
+            <file>file:/D:/PROJECT/Pak_Indra/mobile%20banking/MBServer/src/java/com/matajari/servlet/ProcessRequest.java</file>
+        </group>
+        <group name="AMK">
+            <file>file:/home/adi/AMK/MBServer/src/java/com/matajari/process/BillPaymentOverDraftTransaction.java</file>
+            <file>file:/home/adi/AMK/MBServer/src/java/com/matajari/process/ActiveOverdraftForAgent.java</file>
+            <file>file:/home/adi/AMK/MBServer/src/java/com/matajari/process/BillPaymentOverDraftInquiry.java</file>
+            <file>file:/home/adi/AMK/MBServer/src/java/com/matajari/process/DeactiveOverDraftForAgent.java</file>
+        </group>
+        <group name="AMK_Back_End"/>
+        <group name="yabes"/>
+        <group name="ppob yabes"/>
+        <group name="YABES_UPDATED"/>
+        <group name="YABES PPOB"/>
+        <group name="YABES">
+            <file>file:/D:/Iqbal/MATAJARI/YABES%20PPOB%20MATAJARI/PPOBServer/src/java/com/matajari/process/PrepaidReloadPayment.java</file>
+        </group>
+        <group name="YABES PPOB MATAJARI">
+            <file>file:/D:/Iqbal/MATAJARI/YABES%20PPOB%20MATAJARI/PPOBServer/src/java/com/matajari/process/BillInquiry.java</file>
+        </group>
+        <group name="QUANTUM MIDDLEWARE"/>
+        <group name="QUANTUM PPOB MATAJARI"/>
+        <group name="QUANTUM_MIDDLEWARE"/>
+        <group name="QUANTUM_PPOB"/>
+        <group name="Quantum Middleware"/>
+        <group name="PrimeCash"/>
+        <group name="PrimeCash_ppob"/>
+        <group name="BALIMUDA CORE"/>
+        <group name="BNI_VA"/>
+        <group name="BALIMUDA PPOBServer">
+            <file>file:/D:/WorkSpace/PrimeCash/PRIMECASH_PPOB/PPOBServer/src/java/com/balimuda/servlet/BackendProcess.java</file>
+            <file>file:/D:/WorkSpace/PrimeCash/PRIMECASH_PPOB/PPOBServer/src/java/com/balimuda/process/CheckSecurityCode.java</file>
+            <file>file:/D:/WorkSpace/PrimeCash/PRIMECASH_PPOB/PPOBServer/src/java/com/balimuda/process/CreatePin.java</file>
+            <file>file:/D:/WorkSpace/PrimeCash/PRIMECASH_PPOB/PPOBServer/src/java/com/balimuda/servlet/AgentProcess.java</file>
+            <file>file:/D:/WorkSpace/PrimeCash/PRIMECASH_PPOB/PPOBServer/src/java/com/balimuda/servlet/ProcessRequest.java</file>
+        </group>
+        <group name="MATAJARI FINTECH - CUSO ( CORE )"/>
+        <group name="MATAJARI FINTECH - CUSO ( PPOB )">
+            <file>file:/D:/WorkSpace/Matajari%20FinTech%20-%20Cuso/SERVER_PPOB/PPOBServer/src/java/com/balimuda/servlet/ProcessRequest.java</file>
+            <file>file:/D:/WorkSpace/Matajari%20FinTech%20-%20Cuso/SERVER_PPOB/PPOBServer/src/java/com/balimuda/servlet/CleaningDataScheduler.java</file>
+        </group>
+        <group name="ppn">
+            <file>file:/D:/project%20kerja/Matajari%20FinTech%20-%20Cuso/SERVER_BACKOFFICE/BOServer/src/java/com/balimuda/servlet/BackendProcess.java</file>
+        </group>
+        <group name="Backoffice POS Server"/>
+        <group name="POS Group"/>
+        <group/>
+        <group name="MOST Group"/>
+        <group name="POS"/>
+        <group name="lab_karunia"/>
+    </open-files>
+</project-private>

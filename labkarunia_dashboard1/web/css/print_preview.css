@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-Jan-2022, 12:48:44
+    Author     : matajari
+*/
+
+/*<div id="header_halaman" style="width: 100%;text-align: -webkit-center; padding-top: 20px">
+            <div style="width:90%; height: 150px; border: 1px solid black">
+                <label id="lbl_book"></label><br>
+                <div id="barcode_nya" style="width: 110px; height: 110px; border: 1px solid black; align-content: center"></div>
+            </div>
+            <table style="width: 90%; font-size: 12px; font-weight: 600; border: 1px solid black; margin-top: 20px">
+                <tr>
+                    <td style="width: 30%; padding-left: 10px" class="brcode">Nama</td>
+                    <td style="width: 70%; padding-left: 10px" class="brcode" id="ant_name"></td>
+                </tr>
+                <tr>
+                    <td style="width: 30%; padding-left: 10px" class="brcode">Sex/Tgl.Lahir</td>
+                    <td style="width: 70%; padding-left: 10px" class="brcode" id="ant_sex"></td>
+                </tr>
+                <tr>
+                    <td style="width: 30%; padding-left: 10px" class="brcode">Jasa</td>
+                    <td style="width: 70%; padding-left: 10px" class="brcode" id="ant_jasa"></td>
+                </tr>
+                <tr>
+                    <td style="width: 30%; padding-left: 10px" class="brcode">Tgl.Sample</td>
+                    <td style="width: 70%; padding-left: 10px" class="brcode" id="ant_tgl"></td>
+                </tr>
+                <tr>
+                    <td style="width: 30%; padding-left: 10px" class="brcode">Tower/Kamar</td>
+                    <td style="width: 70%; padding-left: 10px" class="brcode" id="ant_tower"></td>
+                </tr>
+            </table>
+        </div>*/
+
+
+#header_halaman{
+    width: 100%;
+    text-align: -webkit-center; 
+    padding-top: 20px;
+}
